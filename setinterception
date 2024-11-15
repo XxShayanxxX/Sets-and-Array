@@ -1,0 +1,3 @@
+set1 = {"blue" , "green"}
+set2 = {"yellow", "blue"}
+print(set1.intersection(set2))
